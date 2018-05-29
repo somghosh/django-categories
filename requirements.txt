@@ -1,2 +1,2 @@
 django-mptt>=0.9.0,<0.10
-[-e] git+git://github.com/mozilla/unicode-slugify.git#egg=SomeProject
+
