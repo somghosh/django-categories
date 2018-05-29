@@ -26,5 +26,5 @@ setup(
         'Framework :: Django',
     ],
     install_requires=reqs,
-    dependency_links=[]
+    dependency_links=['git+git://github.com/mozilla/unicode-slugify.git#egg=SomeProject']
 )
